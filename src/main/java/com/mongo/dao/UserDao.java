@@ -12,7 +12,7 @@ import java.util.List;
  *操作数据库
  */
 public class UserDao {
-
+//sa
     //1、Mongo是与java.sql.Connection同等级别的概念
     //2、默认是链接到127.0.0.1:27017/test
     Mongo mongo = null;
